@@ -1,9 +1,12 @@
 <template>
   <div id="app">
-    <div class="bg-gray-200 min-h-screen p-16 flex items-center justify-center">
+    <LandingPage/>
+    <div class="bg-gray-200 min-h-screen p-16 flex flex-wrap items-center justify-between">
+      
       <HorizontalCard :doc="doc"/>
       <HorizontalCard :doc="doc"/>
       <HorizontalCard :doc="doc"/>
+
       <!-- <PropertyCard :property="property"/>
       <PropertyCard :property="property"/>
       <PropertyCard :property="property"/> -->
@@ -14,12 +17,14 @@
 <script>
 // import PropertyCard from './components/PropertyCard'
 import HorizontalCard from './components/HorizontalCard.vue'
+import LandingPage from './components/LandingPage'
 
 export default {
   name: 'app',
   components: {
     // PropertyCard,
-    HorizontalCard
+    HorizontalCard,
+    LandingPage
   },
   data: () => ({
     doc: {
