@@ -1,6 +1,6 @@
 <template>
     
-    <div class="bg-cover bg-fixed bg-center h-auto text-white min-h-screen py-40 px-16 object-fill bgimg" >
+    <div class="bg-cover bg-fixed bg-center h-auto text-white min-h-screen py-48 px-16 object-fill bgimg" >
         <div class="md:w-1/2 px-8 py-12  max-w-sm  bg-gray-900 rounded-lg shadow-2xl">
             <p class="font-bold text-sm uppercase">Toronto, Ontario</p>
             <p class="text-5xl font-bold text-yellow-600">Reuben Ninan</p>
