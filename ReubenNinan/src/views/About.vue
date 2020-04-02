@@ -230,9 +230,9 @@
                       class="inline-block text-gray-550 print:text-black font-normal group-hover:text-gray-700 transition duration-100 ease-in">↗</span>
                   </a>
                 </h3>
-                <p class="leading-normal text-md text-gray-650">
+                <!-- <p class="leading-normal text-md text-gray-650">
                   Found on GitHub
-                </p>
+                </p> -->
               </header>
               <p class="mt-2 text-md text-gray-700 leading-normal">
                 An example of a web application that leverages distributed systems technologies.
@@ -282,9 +282,9 @@
                     class="inline-block text-gray-550 print:text-black font-normal group-hover:text-gray-700 transition duration-100 ease-in">↗</span>
                 </a>
               </h3>
-              <p class="leading-normal text-md text-gray-650">
+              <!-- <p class="leading-normal text-md text-gray-650">
                 Found on GitHub
-              </p>
+              </p> -->
             </header>
             <p class="mt-2 text-md text-gray-700 leading-normal">
               A simple web application based document scanner utilizing an OpenCV Edge Detection Engine.
@@ -314,9 +314,9 @@
                     class="inline-block text-gray-550 print:text-black font-normal group-hover:text-gray-700 transition duration-100 ease-in">↗</span>
                 </a>
               </h3>
-              <p class="leading-normal text-md text-gray-650">
+              <!-- <p class="leading-normal text-md text-gray-650">
                 Found on GitHub
-              </p>
+              </p> -->
             </header>
             <p class="mt-2 text-md text-gray-700 leading-normal">
               Exploration and practice with various machine learning techniques and tools.
@@ -346,9 +346,9 @@
                     class="inline-block text-gray-550 print:text-black font-normal group-hover:text-gray-700 transition duration-100 ease-in">↗</span>
                 </a>
               </h3>
-              <p class="leading-normal text-md text-gray-650">
+              <!-- <p class="leading-normal text-md text-gray-650">
                 Found on GitHub
-              </p>
+              </p> -->
             </header>
             <p class="mt-2 text-md text-gray-700 leading-normal">
               Desktop application of a customizable venn diagram maker.
