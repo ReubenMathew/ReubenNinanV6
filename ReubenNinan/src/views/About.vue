@@ -86,28 +86,28 @@
 
               <li class="mt-2 text-md text-gray-700 leading-normal">
                 <span class="absolute -ml-3 sm:-ml-3.2 select-none transform -translate-y-px">›</span>
-                    Worked under Agile/SCRUM Methodologies and utilized tools such as JIRA, GitHub and Confluence
+                    Worked under Agile/SCRUM Methodologies and utilized tools such as JIRA, Enterprise GitHub and Confluence
               </li>
 
               <ul class="my-2 mb-6 flex flex-wrap text-md leading-relaxed">
                 
                 <li class="px-3 mr-2 mt-2 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
-                  Java
+                  Python
                 </li>
                 <li class="px-3 mr-2 mt-2 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
-                  Python
+                  Tableau
                 </li>
                 <li class="px-3 mr-2 mt-2 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
                   SQL
                 </li>
                 <li class="px-3 mr-2 mt-2 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
-                  R
-                </li>
-                <li class="px-3 mr-2 mt-2 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
                   Bash
                 </li>
                 <li class="px-3 mr-2 mt-2 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
-                  Tableau
+                  R
+                </li>
+                <li class="px-3 mr-2 mt-2 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
+                  Java
                 </li>                
               </ul>
             </ul>
@@ -116,7 +116,11 @@
           <section class="mb-4 break-inside-avoid">
             <header>
               <h3 class="text-lg font-semibold text-gray-700 leading-snugish">
-                STEM1 (www.stem1.ca)
+                <a href="https://www.stem1.ca/" class="group">
+                  STEM1
+                  <span
+                    class="inline-block text-gray-550 print:text-black font-normal group-hover:text-gray-700 transition duration-100 ease-in">↗</span>
+                </a>
               </h3>
               <p class="leading-normal text-md text-gray-650">
                 Jun 2018 – Aug 2018 | Computer Science Instructor
