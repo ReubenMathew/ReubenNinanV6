@@ -224,111 +224,50 @@
             <section class="mb-4 break-inside-avoid">
               <header>
                 <h3 class="text-lg font-semibold text-gray-700 leading-snugish">
-                  <a href="https://github.com/WebPraktikos" class="group">
-                    Universal Resume
+                  <a href="https://github.com/ReubenMathew/DistributedSystemsPortfolio" class="group">
+                    Distributed Systems Portfolio
                     <span
                       class="inline-block text-gray-550 print:text-black font-normal group-hover:text-gray-700 transition duration-100 ease-in">↗</span>
                   </a>
                 </h3>
                 <p class="leading-normal text-md text-gray-650">
-                  Since 2019 | HTML CSS
+                  Found on GitHub
                 </p>
               </header>
               <p class="mt-2 text-md text-gray-700 leading-normal">
-                Good design is as little design as possible. Less, but better — because it concentrates on the essential
-                aspects, and the pro&shy;ducts are not burdened with non-essentials.
-              </p>
-            </section>
-
-          </div>
-
-          <section class="mb-4 break-inside-avoid">
-            <header>
-              <h3 class="text-lg font-semibold text-gray-700 leading-snugish">
-                <a href="https://github.com/WebPraktikos" class="group">
-                  fade-on-scroll
-                  <span
-                    class="inline-block text-gray-550 print:text-black font-normal group-hover:text-gray-700 transition duration-100 ease-in">↗</span>
-                </a>
-              </h3>
-              <p class="leading-normal text-md text-gray-650">
-                2017 | JavaScript
-              </p>
-            </header>
-            <p class="mt-2 text-md text-gray-700 leading-normal">
-              Good design is long-lasting. It avoids being fashionable and therefore never appears antiquated.
-            </p>
-            <p class="mt-2 text-md text-gray-700 leading-normal">
-              Good design is honest. It does not make a product more innovative, powerful or valuable than it really is.
-            </p>
-          </section>
-
-          <section class="mb-4 break-inside-avoid">
-            <header>
-              <h3 class="text-lg font-semibold text-gray-700 leading-snugish">
-                Third One
-              </h3>
-              <p class="leading-normal text-md text-gray-650">
-                2013 – 2014 | Vue
-              </p>
-            </header>
-            <p class="mt-2 text-md text-gray-700 leading-normal">
-              Good design is innovative. Technological development is always offering new opportunities for innovative design.
-            </p>
-          </section>
-
-          <section class="mb-4 break-inside-avoid">
-            <header>
-              <h3 class="text-lg font-semibold text-gray-700 leading-snugish">
-                Fantastic Project
-              </h3>
-              <p class="leading-normal text-md text-gray-650">
-                2012 | JavaScript
-              </p>
-            </header>
-            <p class="mt-2 text-md text-gray-700 leading-normal">
-              Strip steak tail capicola alcatra ground round tenderloin ar. Venison tri-tip porchetta, brisket
-              tenderloin pig beef.
-            </p>
-          </section>
-
-        </section>
-
-        <section class="mt-8">
-
-          <!-- To keep in the same column -->
-          <div class="break-inside-avoid">
-
-            <h2 class="mb-4 font-bold tracking-widest text-sm2 text-gray-550 print:font-normal">
-              SKILLS
-            </h2>
-
-            <section class="mb-4 break-inside-avoid">
-              <header>
-                <h3 class="text-lg font-semibold text-gray-700 leading-snugish">
-                  JavaScript
-                </h3>
-                <p class="leading-normal text-md text-gray-650">
-                  Middle Level
-                </p>
-              </header>
-              <p class="mt-2 text-md text-gray-700 leading-normal">
-                Good parts: pure function, higher-order functions, factory functions, composition. Bad parts:
-                inheritance, this, new.
+                An example of a web application that leverages distributed systems technologies.
               </p>
               <ul class="my-2 mb-6 flex flex-wrap text-md leading-relaxed">
                 <li class="px-3 mr-2 mt-2 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
-                  ES6
+                  NuxtJS
                 </li>
                 <li class="px-3 mr-2 mt-2 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
-                  Vue
+                  Figma
                 </li>
                 <li class="px-3 mr-2 mt-2 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
-                  Functional Programming
+                  Python
                 </li>
                 <li class="px-3 mr-2 mt-2 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
-                  Node
+                  Flask
                 </li>
+                <li class="px-3 mr-2 mt-2 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
+                  Redis
+                </li>
+                <li class="px-3 mr-2 mt-2 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
+                  Axios
+                </li>
+                <li class="px-3 mr-2 mt-2 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
+                  Gunicorn
+                </li>  
+                <li class="px-3 mr-2 mt-2 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
+                  Kubernetes
+                </li>  
+                <li class="px-3 mr-2 mt-2 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
+                  Docker
+                </li> 
+                <li class="px-3 mr-2 mt-2 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
+                  Postman
+                </li>      
               </ul>
             </section>
 
@@ -337,44 +276,109 @@
           <section class="mb-4 break-inside-avoid">
             <header>
               <h3 class="text-lg font-semibold text-gray-700 leading-snugish">
-                Other
+                <a href="https://github.com/ReubenMathew/DocScanner" class="group">
+                  DocScanner
+                  <span
+                    class="inline-block text-gray-550 print:text-black font-normal group-hover:text-gray-700 transition duration-100 ease-in">↗</span>
+                </a>
               </h3>
+              <p class="leading-normal text-md text-gray-650">
+                Found on GitHub
+              </p>
             </header>
-            <ul class="py-1.5 mb-6 flex flex-wrap text-md leading-relaxed">
+            <p class="mt-2 text-md text-gray-700 leading-normal">
+              A simple web application based document scanner utilizing an OpenCV Edge Detection Engine.
+            </p>
+            <ul class="my-2 mb-6 flex flex-wrap text-md leading-relaxed">
+                <li class="px-3 mr-2 mt-2 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
+                  Python
+                </li>
+                <li class="px-3 mr-2 mt-2 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
+                  Flask
+                </li>
+                <li class="px-3 mr-2 mt-2 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
+                  OpenCV
+                </li>
+                <li class="px-3 mr-2 mt-2 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
+                  Numpy
+                </li>
+              </ul>
+          </section>
+
+          <section class="mb-4 break-inside-avoid">
+            <header>
+              <h3 class="text-lg font-semibold text-gray-700 leading-snugish">
+                <a href="https://github.com/ReubenMathew/DataOpsExperiments" class="group">
+                  Machine Learning Experiments
+                  <span
+                    class="inline-block text-gray-550 print:text-black font-normal group-hover:text-gray-700 transition duration-100 ease-in">↗</span>
+                </a>
+              </h3>
+              <p class="leading-normal text-md text-gray-650">
+                Found on GitHub
+              </p>
+            </header>
+            <p class="mt-2 text-md text-gray-700 leading-normal">
+              Exploration and practice with various machine learning techniques and tools.
+            </p>
+            <ul class="my-2 mb-6 flex flex-wrap text-md leading-relaxed">
               <li class="px-3 mr-2 mt-2 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
-                CSS
+                PyTorch
               </li>
               <li class="px-3 mr-2 mt-2 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
-                Rust
+                NLP
               </li>
               <li class="px-3 mr-2 mt-2 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
-                Git
+                Scikit-learn
               </li>
               <li class="px-3 mr-2 mt-2 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
-                Go
-              </li>
-              <li class="px-3 mr-2 mt-2 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
-                Linux Server
-              </li>
-              <li class="px-3 mr-2 mt-2 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
-                UI Design
-              </li>
-              <li class="px-3 mr-2 mt-2 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
-                Photoshop
-              </li>
-              <li class="px-3 mr-2 mt-2 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
-                Illustrator
-              </li>
-              <li class="px-3 mr-2 mt-2 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
-                Figma
-              </li>
-              <li class="px-3 mr-2 mt-2 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
-                Typography
+                Tensorflow
               </li>
             </ul>
           </section>
 
+          <section class="mb-4 break-inside-avoid">
+            <header>
+              <h3 class="text-lg font-semibold text-gray-700 leading-snugish">
+                <a href="https://github.com/EECS2311-Team8/SoftwareDevelopmentProject" class="group">
+                  VennFX
+                  <span
+                    class="inline-block text-gray-550 print:text-black font-normal group-hover:text-gray-700 transition duration-100 ease-in">↗</span>
+                </a>
+              </h3>
+              <p class="leading-normal text-md text-gray-650">
+                Found on GitHub
+              </p>
+            </header>
+            <p class="mt-2 text-md text-gray-700 leading-normal">
+              Desktop application of a customizable venn diagram maker.
+            </p>
+            <ul class="my-2 mb-6 flex flex-wrap text-md leading-relaxed">
+              <li class="px-3 mr-2 mt-2 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
+                Java
+              </li>
+              <li class="px-3 mr-2 mt-2 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
+                JavaFX
+              </li>
+              <li class="px-3 mr-2 mt-2 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
+                CircleCI
+              </li>
+              <li class="px-3 mr-2 mt-2 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
+                Gradle
+              </li>
+              <li class="px-3 mr-2 mt-2 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
+                JUnit
+              </li>
+              <li class="px-3 mr-2 mt-2 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
+                TestFX 
+              </li>
+            </ul>
+          </section>
+
+
         </section>
+
+
 
         <section class="mt-8">
 

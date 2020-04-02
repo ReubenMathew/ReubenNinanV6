@@ -1,7 +1,7 @@
 <template>
     
-    <div class="bg-cover bg-fixed bg-center h-auto text-white min-h-screen py-48 px-20 object-fill bgimg" >
-        <div class="px-8 py-12  max-w-screen-xsm bg-gray-900 rounded-lg shadow-2xl glass">
+    <div class="bg-cover min-w-full bg-fixed bg-center h-auto text-white min-h-screen py-48 px-20 object-fill bgimg" >
+        <div class="px-8 py-12  max-w-sm bg-gray-900 rounded-lg shadow-2xl glass">
             <p class="font-bold text-sm uppercase">Toronto, Ontario</p>
             <p class="text-5xl font-bold text-yellow-600">Reuben Ninan</p>
             <p class="text-3xl  mb-7 leading-none font-hairline">Software Engineer</p>
