@@ -6,7 +6,7 @@
 
       <!-- Name -->
       <header class="flex items-center mb-8 md:mb-11">
-        <router-link to="/" class="initials-container mr-5 text-base leading-none text-white bg-gray-700 font-medium print:bg-black px-3 py-2.5">
+        <router-link to="/" class="initials-container mr-5 text-base leading-none text-white bg-gray-700 font-medium print:bg-black px-3 py-3">
           <div class="initial text-center pb-0.8">R</div>
           <div class="text-center initial">N</div>
         </router-link>
@@ -91,22 +91,22 @@
 
               <ul class="my-2 mb-6 flex flex-wrap text-md leading-relaxed">
                 
-                <li class="px-3 mr-1.5 mt-1.5 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
+                <li class="px-3 mr-2 mt-2 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
                   Java
                 </li>
-                <li class="px-3 mr-1.5 mt-1.5 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
+                <li class="px-3 mr-2 mt-2 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
                   Python
                 </li>
-                <li class="px-3 mr-1.5 mt-1.5 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
+                <li class="px-3 mr-2 mt-2 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
                   SQL
                 </li>
-                <li class="px-3 mr-1.5 mt-1.5 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
+                <li class="px-3 mr-2 mt-2 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
                   R
                 </li>
-                <li class="px-3 mr-1.5 mt-1.5 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
+                <li class="px-3 mr-2 mt-2 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
                   Bash
                 </li>
-                <li class="px-3 mr-1.5 mt-1.5 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
+                <li class="px-3 mr-2 mt-2 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
                   Tableau
                 </li>                
               </ul>
@@ -313,16 +313,16 @@
                 inheritance, this, new.
               </p>
               <ul class="my-2 mb-6 flex flex-wrap text-md leading-relaxed">
-                <li class="px-3 mr-1.5 mt-1.5 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
+                <li class="px-3 mr-2 mt-2 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
                   ES6
                 </li>
-                <li class="px-3 mr-1.5 mt-1.5 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
+                <li class="px-3 mr-2 mt-2 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
                   Vue
                 </li>
-                <li class="px-3 mr-1.5 mt-1.5 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
+                <li class="px-3 mr-2 mt-2 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
                   Functional Programming
                 </li>
-                <li class="px-3 mr-1.5 mt-1.5 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
+                <li class="px-3 mr-2 mt-2 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
                   Node
                 </li>
               </ul>
@@ -337,34 +337,34 @@
               </h3>
             </header>
             <ul class="py-1.5 mb-6 flex flex-wrap text-md leading-relaxed">
-              <li class="px-3 mr-1.5 mt-1.5 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
+              <li class="px-3 mr-2 mt-2 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
                 CSS
               </li>
-              <li class="px-3 mr-1.5 mt-1.5 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
+              <li class="px-3 mr-2 mt-2 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
                 Rust
               </li>
-              <li class="px-3 mr-1.5 mt-1.5 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
+              <li class="px-3 mr-2 mt-2 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
                 Git
               </li>
-              <li class="px-3 mr-1.5 mt-1.5 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
+              <li class="px-3 mr-2 mt-2 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
                 Go
               </li>
-              <li class="px-3 mr-1.5 mt-1.5 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
+              <li class="px-3 mr-2 mt-2 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
                 Linux Server
               </li>
-              <li class="px-3 mr-1.5 mt-1.5 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
+              <li class="px-3 mr-2 mt-2 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
                 UI Design
               </li>
-              <li class="px-3 mr-1.5 mt-1.5 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
+              <li class="px-3 mr-2 mt-2 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
                 Photoshop
               </li>
-              <li class="px-3 mr-1.5 mt-1.5 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
+              <li class="px-3 mr-2 mt-2 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
                 Illustrator
               </li>
-              <li class="px-3 mr-1.5 mt-1.5 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
+              <li class="px-3 mr-2 mt-2 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
                 Figma
               </li>
-              <li class="px-3 mr-1.5 mt-1.5 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
+              <li class="px-3 mr-2 mt-2 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
                 Typography
               </li>
             </ul>
@@ -377,30 +377,30 @@
           <!-- To keep in the same column -->
           <div class="break-inside-avoid">
 
-            <h2 class="mb-4 font-bold tracking-widest text-sm2 text-gray-550 print:font-normal">
+            <h2 class="mb-4 font-bold tracking-widest  text-sm2 text-gray-550 print:font-normal">
               CONTACT
             </h2>
 
             <section class="mb-4 break-inside-avoid">
               <ul class="list-inside pr-7">
-                <li class="mt-1.5 leading-normal text-gray-700 text-md">
+                <li class="mt-2 leading-normal text-gray-700 text-md">
                   <a href="//reubenninan.tech" class="group">
                       reubenninan.tech
                     <span
                       class="inline-block text-gray-550 print:text-black font-normal group-hover:text-gray-700 transition duration-100 ease-in">↗</span>
                   </a>
                 </li>
-                <li class="mt-1.5 leading-normal text-gray-700 text-md">
+                <li class="mt-2 leading-normal text-gray-700 text-md">
                   <a href="//twitter.com/NinanReuben" class="group">
                     twitter.com/NinanReuben
                     <span
                       class="inline-block text-gray-550 print:text-black font-normal group-hover:text-gray-700 transition duration-100 ease-in">↗</span>
                   </a>
                 </li>
-                <li class="mt-1.5 leading-normal text-gray-700 text-md">
+                <li class="mt-2 leading-normal text-gray-700 text-md">
                   Toronto, Ontario
                 </li>
-                <li class="mt-1.5 leading-normal text-gray-700 text-md">
+                <li class="mt-2 leading-normal text-gray-700 text-md">
                   reubenninan@outlook.com
                 </li>
               </ul>
