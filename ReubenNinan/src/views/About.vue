@@ -152,7 +152,7 @@
             <section class="mb-4 break-inside-avoid">
               <header>
                 <h3 class="text-lg font-semibold text-gray-700 leading-snugish">
-                  York University
+                  York University - Software Engineering
                 </h3>
                 <p class="leading-normal text-md text-gray-650">
                   2018 – Current | Bachelor of Engineering
