@@ -6,9 +6,7 @@
       <HorizontalCard :doc="doc2"/>
       <HorizontalCard :doc="doc3"/>
       <HorizontalCard :doc="doc4"/>
-      <!-- <PropertyCard :property="property"/>
-      <PropertyCard :property="property"/>
-      <PropertyCard :property="property"/> -->
+
     </div>
   </div>
 </template>
