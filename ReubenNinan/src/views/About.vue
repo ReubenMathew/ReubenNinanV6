@@ -375,6 +375,35 @@
             </ul>
           </section>
 
+          <section class="mb-4 break-inside-avoid">
+            <header>
+              <h3 class="text-lg font-semibold text-gray-700 leading-snugish">
+                <a href="https://business-template.now.sh/" class="group">
+                  Business Frontend Template
+                  <span
+                    class="inline-block text-gray-550 print:text-black font-normal group-hover:text-gray-700 transition duration-100 ease-in">↗</span>
+                </a>
+              </h3>
+              <!-- <p class="leading-normal text-md text-gray-650">
+                Found on GitHub
+              </p> -->
+            </header>
+            <p class="mt-2 text-md text-gray-700 leading-normal">
+              A modern web template meant for businesses or financial firms.
+            </p>
+            <ul class="my-2 mb-6 flex flex-wrap text-md leading-relaxed">
+              <li class="px-3 mr-2 mt-2 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
+                JavaScript
+              </li>
+              <li class="px-3 mr-2 mt-2 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
+                VueJS
+              </li>
+              <li class="px-3 mr-2 mt-2 text-base text-gray-750 print:bg-white print:border-inset bg-gray-200">
+                TailwindCSS
+              </li>
+            </ul>
+          </section>
+
 
         </section>
 
