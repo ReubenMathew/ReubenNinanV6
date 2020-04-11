@@ -1,7 +1,8 @@
 <template>
   <div id="app">
     <LandingPage/>
-    <div class="bg-gray-200 min-h-screen px-16 flex flex-wrap py-16">
+    <div class="text-yellow-600 bg-gray-900 text-center font-semibold py-8 text-5xl">Project Showcase</div>
+    <div class="bg-gray-200 min-h-screen px-16 flex flex-wrap py-4 justify-center">
       <HorizontalCard :doc="doc1"/>
       <HorizontalCard :doc="doc2"/>
       <HorizontalCard :doc="doc3"/>

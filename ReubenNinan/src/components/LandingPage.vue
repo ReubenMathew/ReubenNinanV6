@@ -1,9 +1,9 @@
 <template>
     
     <div class="bg-cover min-w-full bg-fixed bg-center h-auto text-white min-h-screen py-48 px-20 object-fill bgimg" >
-        <div class="px-8 py-12 max-w-sm bg-gray-900 rounded-lg shadow-2xl glass">
+        <div class="px-8 py-12 lg:w-3/12 w-full bg-gray-900 rounded-lg shadow-2xl glass">
             <p class="font-bold text-sm uppercase">Toronto, Ontario</p>
-            <p class="text-5xl name font-semibold text-yellow-600">Reuben Ninan</p>
+            <p class="text-4xl name font-semibold text-yellow-600">Reuben Ninan</p>
             <p class="text-2xl  mb-7 leading-none font-light">Software Engineer</p>
 
             <!-- Contact Buttons -->
@@ -25,14 +25,14 @@
 
 <style type="text/css">
 
-@import url('https://fonts.googleapis.com/css?family=Cabin|Nunito');
+@import url('https://fonts.googleapis.com/css?family=Roboto|Nunito');
 
 * {
-    font-family: 'Cabin', sans-serif;
+    font-family: 'Nunito', sans-serif;
   }
 
 .name{
-    font-family: 'Nunito', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 .bgimg {
