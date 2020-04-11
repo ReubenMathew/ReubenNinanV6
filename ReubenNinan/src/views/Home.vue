@@ -15,7 +15,7 @@
       <HorizontalCard :doc="doc4"/>
     </div>
     <!-- Footer -->
-    <div class=" text-right sm:text-center py-4 px-10 bg-yellow-500 font-semibold">
+    <div class=" md:text-right text-center px-4 py-4 md:px-10 bg-yellow-500 font-semibold">
       Made with ❤️ by Reuben
     </div>
     
