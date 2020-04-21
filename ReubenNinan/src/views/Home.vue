@@ -1,6 +1,7 @@
 <template>
   <div>
     <LandingPage/>
+    
     <!-- Divider -->
     <Reflection/>
 
